@@ -8,4 +8,4 @@
 
 <b>codewars</b>
 <br></br>
-![codewars](https://www.codewars.com/users/FIleurix3/badges/large)
+![codewars](https://www.codewars.com/users/FIleurix3/badges/small)
