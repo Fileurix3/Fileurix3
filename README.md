@@ -1,6 +1,6 @@
 <h2><b>Languages and Tools</h2>
 <img src = "https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python">
-<img src = "https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask">
+<img src = "https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi">
 <img src = "https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5">
 <img src = "https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=blue">
 <img src = "https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql">
