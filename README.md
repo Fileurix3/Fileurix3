@@ -2,6 +2,7 @@
 <img src = "https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript">
 <img src = "https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5">
 <img src = "https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=blue">
+<img src = "https://img.shields.io/badge/cplusplus-white?style=for-the-badge&logo=cplusplus">
 
 
 
