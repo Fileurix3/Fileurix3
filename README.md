@@ -3,7 +3,7 @@
 <img src = "https://img.shields.io/badge/sql-black?style=for-the-badge"><br><br>
 
 <img src = "https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=013243">
-<img src = "https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas">
+<img src = "https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=150458">
 <img src = "https://img.shields.io/badge/matplotlib-black?style=for-the-badge&logo=matplotlib">
   
 <h2><b>codewars</h3>
