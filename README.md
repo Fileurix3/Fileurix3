@@ -1,6 +1,6 @@
 <h2><b>Languages and Tools</h2>
 <img src = "https://img.shields.io/badge/python-black?style=for-the-badge&logo=python">
-<img src = "https://img.shields.io/badge/sql-black?style=for-the-badge"><br><br>
+<img src = "https://img.shields.io/badge/sql-black?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"><br><br>
 
 <img src = "https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=013243">
 <img src = "https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=150458">
