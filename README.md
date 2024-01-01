@@ -1,5 +1,4 @@
 <h2><b>Languages and Tools</h2>
-https://github.com/Fileurix3/Fileurix3/blob/main/README.md
 ![PYTHON Badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![SQL Badge](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)
 
