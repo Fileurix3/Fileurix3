@@ -1,6 +1,6 @@
 <h2><b>Languages and Tools</h2>
 <img src = "https://img.shields.io/badge/python-black?style=for-the-badge&logo=python">
-![SQL Badge](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)
+<img src = "https://img.shields.io/badge/sql-black?style=for-the-badge&logo=MySQL">
 
   
 <h2><b>codewars</h3>
