@@ -1,5 +1,5 @@
 <h2><b>Languages and Tools</h2>
-![PYTHON Badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+<img src = "https://img.shields.io/badge/python-black?style=for-the-badge&logo=python">
 ![SQL Badge](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)
 
   
