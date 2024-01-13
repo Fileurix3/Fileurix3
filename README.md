@@ -2,7 +2,7 @@
 <img src = "https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript">
 <img src = "https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vuedotjs"><br>
 <img src = "https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5">
-<img src = "https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=#1572B6">
+<img src = "https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=1572B6">
 
 <h2><b>codewars</h3>
   
