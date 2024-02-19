@@ -1,11 +1,6 @@
 <h2><b>Languages and Tools</h2>
-<img src = "https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript">
-<img src = "https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript"><br>
-<img src = "https://img.shields.io/badge/react native-black?style=for-the-badge&logo=react">
-<img src = "https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux&logoColor=764ABC"><br>
+<img src = "https://img.shields.io/badge/dart/flutter-black?style=for-the-badge&logo=Flutter&logoColor=02569B">
 <img src = "https://img.shields.io/badge/git-black?style=for-the-badge&logo=git">
-<img src = "https://img.shields.io/badge/html/css-black?style=for-the-badge&logo=HTML5">
-
 
 <h2><b>codewars</h3>
   
