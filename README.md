@@ -7,5 +7,5 @@
 <h2><b>codewars</h2>
 <img src = "https://www.codewars.com/users/FIleurix3/badges/large">
 
-<h2><b>leetcode</h2>
-<P>https://leetcode.com/Fileurix3/</P>
+<h2><b>stratascratch</h2>
+<P>https://platform.stratascratch.com/user/Fileurix</P>
