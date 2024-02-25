@@ -3,8 +3,9 @@
 <img src = "https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql"><br>
 <img src = "https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas">
 <br>
-
-![codewars]https://www.codewars.com/users/FIleurix3/badges/small
+  
+<h2><b>codewars</h2>
+<img src = "https://www.codewars.com/users/FIleurix3/badges/large">
 
 <h2><b>leetcode</h2>
 <P>https://leetcode.com/Fileurix3/</P>
