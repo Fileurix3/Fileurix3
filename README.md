@@ -4,5 +4,7 @@
 <img src = "https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas">
 <br>
 
+![codewars]https://www.codewars.com/users/FIleurix3/badges/small
+
 <h2><b>leetcode</h2>
 <P>https://leetcode.com/Fileurix3/</P>
