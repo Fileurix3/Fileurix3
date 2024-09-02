@@ -1,5 +1,4 @@
-<h2 align="center">language and tools
-</h2>
+<h2 align="center">Main Stack</h2>
 
 <div align="center">
 	<img 
