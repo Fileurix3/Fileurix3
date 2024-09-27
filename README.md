@@ -27,3 +27,17 @@
 	alt="firebase logo"
 	/>
 </div>
+<div align="center">
+	<img 
+	src="./assets/nodejs.svg"
+	height="40"
+	alt="nodejs logo"
+	/>
+	<img 
+	src="./assets/postgresql.svg"
+	height="40"
+	alt="postgreSQL logo"
+	/>
+	
+	
+</div>
