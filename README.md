@@ -2,14 +2,14 @@
 
 <div align="center">
 	<img 
-	src="./assets/Git.svg"
+	src="./assets/git.svg"
 	height="40"
-	alt="firebase logo"
+	alt="git logo"
 	/>
 	<img 
-	src="./assets/Dart_programming_language_logo_icon.svg"
+	src="./assets/nodejs.svg"
 	height="40"
-	alt="dart logo"
+	alt="nodejs logo"
 	/>
 	<img 
 	src="./assets/flutter.svg"
@@ -17,27 +17,13 @@
 	alt="flutter logo"
 	/>
 	<img 
-	src="./assets/firebase.svg"
-	height="40"
-	alt="firebase logo"
-	/>
-	<img 
-	src="./assets/SQLite.svg"
-	height="40"
-	alt="firebase logo"
-	/>
-</div>
-<div align="center">
-	<img 
-	src="./assets/nodejs.svg"
-	height="40"
-	alt="nodejs logo"
-	/>
-	<img 
 	src="./assets/postgresql.svg"
 	height="40"
 	alt="postgreSQL logo"
 	/>
-	
-	
+	<img 
+	src="./assets/s3.png"
+	height="40"
+	alt="S3 logo"
+	/>
 </div>
