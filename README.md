@@ -2,7 +2,7 @@
 
 <div align="center">
 	<img 
-	src="./assets/git.svg"
+	src="./assets/Git.svg"
 	height="40"
 	alt="git logo"
 	/>
