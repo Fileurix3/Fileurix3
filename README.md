@@ -12,9 +12,9 @@
 	alt="nodejs logo"
 	/>
 	<img 
-	src="./assets/flutter.svg"
+	src="./assets/typescript.svg"
 	height="40"
-	alt="flutter logo"
+	alt="typescript logo"
 	/>
 	<img 
 	src="./assets/postgresql.svg"
@@ -22,13 +22,13 @@
 	alt="postgreSQL logo"
 	/>
 	<img 
-	src="./assets/mongodb.svg"
+	src="./assets/redis.svg"
 	height="40"
-	alt="mongodb logo"
+	alt="redis logo"
 	/>
 	<img 
-	src="./assets/s3.png"
+	src="./assets/docker.svg"
 	height="40"
-	alt="S3 logo"
+	alt="docker logo"
 	/>
 </div>
