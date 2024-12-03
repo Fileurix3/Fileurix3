@@ -22,6 +22,11 @@
 	alt="postgreSQL logo"
 	/>
 	<img 
+	src="./assets/mongodb.svg"
+	height="40"
+	alt="mongodb logo"
+	/>
+	<img 
 	src="./assets/redis.svg"
 	height="40"
 	alt="redis logo"
